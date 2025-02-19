@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mpzhelpers.h": "c",
+        "random": "c"
+    }
+}
